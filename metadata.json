@@ -1,0 +1,6 @@
+{
+  "name": "Bele Mitra - AI Farm Helper",
+  "description": "AI farm helper prototype for small farmers in Dakshina Kannada to check plant health, weather, and get verified advice in English, Kannada, and Tulu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
